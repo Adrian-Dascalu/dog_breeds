@@ -1,0 +1,15 @@
+path: D:/dog_breeds/data
+train: images/train
+val: images/train
+
+names:
+  0: alaskan-malamute
+  1: appenzeller
+  2: chihuahua
+  3: dalmatian
+  4: french-bulldog
+  5: german-shepherd
+  6: golden-retriever
+  7: irish-setter
+  8: pomeranian
+  9: rottweiler
