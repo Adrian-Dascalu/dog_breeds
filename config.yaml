@@ -2,6 +2,10 @@ path: D:/dog_breeds/data
 train: images/train
 val: images/train
 
+#path: D:/dog_breeds/data/cat
+#train: images
+#val : images
+
 names:
   0: alaskan-malamute
   1: appenzeller
